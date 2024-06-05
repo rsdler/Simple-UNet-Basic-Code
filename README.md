@@ -1,5 +1,5 @@
 # BasicCode U-Net
-BaicCode for reomte sensing and deep learning
+Baisc Code for reomte sensing and deep learning
 
 #### A very concise implementation of semantic segmentation of buildings using U-Net
 
