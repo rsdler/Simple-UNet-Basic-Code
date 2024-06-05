@@ -7,7 +7,7 @@ Just train.py and predict.py
 
 * train_rsdl.py contains everything you need for training! Network definition, data reading, training setup...
 
-* train_rsdl_v2.py adds learning rate scheduler to adjust the learning rate 
+* train_rsdl_v2.py adds a learning rate scheduler to adjust the learning rate 
 
 * predict_rsdl.py contains everything you need for inference! Network definition, data reading...
 
