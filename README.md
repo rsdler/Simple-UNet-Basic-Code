@@ -5,7 +5,11 @@ BaicCode for reomte sensing and deep learning
 
 Just train.py and predict.py
 
-train.py contains everything you need for training! Network definition, data reading, training setup...
+train_rsdl.py contains everything you need for training! Network definition, data reading, training setup...
 
-predict.py contains everything you need for inference! Network definition, data reading...
+train_rsdl_v2.py: Added learning rate scheduler to adjust the learning rate 
 
+predict_rsdl.py contains everything you need for inference! Network definition, data reading...
+
+Results of 20 epoch and only 5 samples:
+![image](https://github.com/rsdler/Simple-U-Net-Basic-Code/assets/169664279/b56dd55f-2ca6-4810-944a-79a22b2a6195)
